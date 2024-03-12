@@ -24,4 +24,13 @@
 
 ## Output Files
 
-You can find sample output files in the `"Output Examples"` folder.
+After successful parsing, an `.xlsx` and a `.txt` file will be generated for each task. You can find sample output files in the `"Output Examples"` folder:
+
+`typeai-ai-keyboard-writer_info_12-03-2024_15-36-43.txt`
+
+`typeai-ai-keyboard-writer_info_12-03-2024_15-36-43.xlsx`
+
+`typeai-ai-keyboard-writer_reviews_12-03-2024_15-42-21.txt`
+
+`typeai-ai-keyboard-writer_reviews_12-03-2024_15-42-21.xlsx`
+
