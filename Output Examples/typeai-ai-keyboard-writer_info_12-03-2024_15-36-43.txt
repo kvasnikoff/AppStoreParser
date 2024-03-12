@@ -1,0 +1,920 @@
+Country: 'Afghanistan'
+Total Ratings: '5 Ratings'
+Average Rating: '4.8'
+Category Rank: '#144 in Productivity'
+
+Country: 'Albania'
+Total Ratings: '25 Ratings'
+Average Rating: '4.5'
+Category Rank: '-'
+
+Country: 'Algeria'
+Total Ratings: '67 Ratings'
+Average Rating: '4.9'
+Category Rank: '-'
+
+Country: 'Andorra'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Angola'
+Total Ratings: '100 Ratings'
+Average Rating: '4.7'
+Category Rank: '-'
+
+Country: 'Anguilla'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Antigua and Barbuda'
+Total Ratings: '5 Ratings'
+Average Rating: '5.0'
+Category Rank: '#95 in Productivity'
+
+Country: 'Argentina'
+Total Ratings: '91 calificaciones'
+Average Rating: '4.5'
+Category Rank: '#109 en Productividad'
+
+Country: 'Armenia'
+Total Ratings: '16 Ratings'
+Average Rating: '5.0'
+Category Rank: '-'
+
+Country: 'Australia'
+Total Ratings: '585 Ratings'
+Average Rating: '4.6'
+Category Rank: '#168 in Productivity'
+
+Country: 'Austria'
+Total Ratings: '192 Bewertungen'
+Average Rating: '4,6'
+Category Rank: 'Nr. 164 in Produktivität'
+
+Country: 'Azerbaijan'
+Total Ratings: '14 Ratings'
+Average Rating: '5.0'
+Category Rank: '-'
+
+Country: 'Bahamas (the)'
+Total Ratings: '19 Ratings'
+Average Rating: '4.8'
+Category Rank: '#107 in Productivity'
+
+Country: 'Bahrain'
+Total Ratings: '38 Ratings'
+Average Rating: '4.6'
+Category Rank: '#80 in Productivity'
+
+Country: 'Bangladesh'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Barbados'
+Total Ratings: '4 Ratings'
+Average Rating: '4.8'
+Category Rank: '#135 in Productivity'
+
+Country: 'Belarus'
+Total Ratings: '5 Ratings'
+Average Rating: '4.0'
+Category Rank: '-'
+
+Country: 'Belgium'
+Total Ratings: '247 Ratings'
+Average Rating: '4.5'
+Category Rank: '#57 in Productivity'
+
+Country: 'Belize'
+Total Ratings: '3 Ratings'
+Average Rating: '4.3'
+Category Rank: '#46 in Productivity'
+
+Country: 'Benin'
+Total Ratings: '37 Ratings'
+Average Rating: '4.4'
+Category Rank: '#41 in Productivity'
+
+Country: 'Bermuda'
+Total Ratings: '5 Ratings'
+Average Rating: '4.8'
+Category Rank: '#159 in Productivity'
+
+Country: 'Bhutan'
+Total Ratings: '9 Ratings'
+Average Rating: '4.8'
+Category Rank: '#93 in Productivity'
+
+Country: 'Bolivia (Plurinational State of)'
+Total Ratings: '26 calificaciones'
+Average Rating: '4.7'
+Category Rank: '#61 en Productividad'
+
+Country: 'Bosnia and Herzegovina'
+Total Ratings: '3 Ratings'
+Average Rating: '5.0'
+Category Rank: '-'
+
+Country: 'Botswana'
+Total Ratings: '20 Ratings'
+Average Rating: '4.8'
+Category Rank: '#39 in Productivity'
+
+Country: 'Brazil'
+Total Ratings: '1,3 mil avaliações'
+Average Rating: '4,7'
+Category Rank: '-'
+
+Country: 'Brunei Darussalam'
+Total Ratings: '7 Ratings'
+Average Rating: '5.0'
+Category Rank: '-'
+
+Country: 'Bulgaria'
+Total Ratings: '13 Ratings'
+Average Rating: '4.1'
+Category Rank: '-'
+
+Country: 'Burkina Faso'
+Total Ratings: '31 Ratings'
+Average Rating: '4.5'
+Category Rank: '#43 in Productivity'
+
+Country: 'Cabo Verde'
+Total Ratings: '3 Ratings'
+Average Rating: '5.0'
+Category Rank: '#140 in Productivity'
+
+Country: 'Cambodia'
+Total Ratings: '111 Ratings'
+Average Rating: '4.8'
+Category Rank: '#88 in Productivity'
+
+Country: 'Cameroon'
+Total Ratings: '81 notes'
+Average Rating: '4,5'
+Category Rank: 'N° 17 en Productivité'
+
+Country: 'Canada'
+Total Ratings: '1.3K Ratings'
+Average Rating: '4.6'
+Category Rank: '#95 in Productivity'
+
+Country: 'Cayman Islands (the)'
+Total Ratings: '7 Ratings'
+Average Rating: '4.7'
+Category Rank: '#52 in Productivity'
+
+Country: 'Central African Republic (the)'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Chad'
+Total Ratings: '13 Ratings'
+Average Rating: '4.9'
+Category Rank: '#73 in Productivity'
+
+Country: 'Chile'
+Total Ratings: '159 calificaciones'
+Average Rating: '4.6'
+Category Rank: '#91 en Productividad'
+
+Country: 'China'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Colombia'
+Total Ratings: '325 calificaciones'
+Average Rating: '4.7'
+Category Rank: '#57 en Productividad'
+
+Country: 'Congo (the Democratic Republic of the)'
+Total Ratings: '145 Ratings'
+Average Rating: '4.4'
+Category Rank: '#45 in Productivity'
+
+Country: 'Congo (the)'
+Total Ratings: '78 Ratings'
+Average Rating: '4.6'
+Category Rank: '#55 in Productivity'
+
+Country: 'Costa Rica'
+Total Ratings: '44 calificaciones'
+Average Rating: '4.9'
+Category Rank: '#42 en Productividad'
+
+Country: 'Croatia'
+Total Ratings: '24 Ratings'
+Average Rating: '4.8'
+Category Rank: '-'
+
+Country: 'Cyprus'
+Total Ratings: '50 Ratings'
+Average Rating: '4.6'
+Category Rank: '#16 in Productivity'
+
+Country: 'Czechia'
+Total Ratings: '19 Ratings'
+Average Rating: '4.2'
+Category Rank: '#126 in Productivity'
+
+Country: 'Côte d'Ivoire'
+Total Ratings: '108 notes'
+Average Rating: '4,6'
+Category Rank: 'N° 63 en Productivité'
+
+Country: 'Denmark'
+Total Ratings: '92 Ratings'
+Average Rating: '4.2'
+Category Rank: '#112 in Productivity'
+
+Country: 'Dominica'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#118 in Productivity'
+
+Country: 'Dominican Republic (the)'
+Total Ratings: '186 calificaciones'
+Average Rating: '4.5'
+Category Rank: '#67 en Productividad'
+
+Country: 'Ecuador'
+Total Ratings: '125 calificaciones'
+Average Rating: '4.7'
+Category Rank: '#93 en Productividad'
+
+Country: 'Egypt'
+Total Ratings: '211 Ratings'
+Average Rating: '4.7'
+Category Rank: '-'
+
+Country: 'El Salvador'
+Total Ratings: '15 calificaciones'
+Average Rating: '4.8'
+Category Rank: '#52 en Productividad'
+
+Country: 'Estonia'
+Total Ratings: '11 Ratings'
+Average Rating: '5.0'
+Category Rank: '#73 in Productivity'
+
+Country: 'Eswatini'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#38 in Productivity'
+
+Country: 'Ethiopia'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Fiji'
+Total Ratings: '12 Ratings'
+Average Rating: '4.8'
+Category Rank: '#26 in Productivity'
+
+Country: 'Finland'
+Total Ratings: '36 Ratings'
+Average Rating: '4.3'
+Category Rank: '#48 in Productivity'
+
+Country: 'France'
+Total Ratings: '1,4 k notes'
+Average Rating: '4,6'
+Category Rank: 'N° 151 en Productivité'
+
+Country: 'Gabon'
+Total Ratings: '26 notes'
+Average Rating: '4,4'
+Category Rank: 'N° 128 en Productivité'
+
+Country: 'Gambia (the)'
+Total Ratings: '22 Ratings'
+Average Rating: '4.5'
+Category Rank: '#4 in Productivity'
+
+Country: 'Georgia'
+Total Ratings: '16 Ratings'
+Average Rating: '5.0'
+Category Rank: '-'
+
+Country: 'Germany'
+Total Ratings: '1.320 Bewertungen'
+Average Rating: '4,5'
+Category Rank: 'Nr. 163 in Produktivität'
+
+Country: 'Ghana'
+Total Ratings: '342 Ratings'
+Average Rating: '4.6'
+Category Rank: '#3 in Productivity'
+
+Country: 'Greece'
+Total Ratings: '50 Ratings'
+Average Rating: '4.5'
+Category Rank: '#55 in Productivity'
+
+Country: 'Grenada'
+Total Ratings: '1 Rating'
+Average Rating: '3.0'
+Category Rank: '#136 in Productivity'
+
+Country: 'Guatemala'
+Total Ratings: '36 calificaciones'
+Average Rating: '4.8'
+Category Rank: '#60 en Productividad'
+
+Country: 'Guinea'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Guinea-Bissau'
+Total Ratings: '1 Rating'
+Average Rating: '5.0'
+Category Rank: '#42 in Productivity'
+
+Country: 'Guyana'
+Total Ratings: '15 Ratings'
+Average Rating: '4.3'
+Category Rank: '#38 in Productivity'
+
+Country: 'Honduras'
+Total Ratings: '28 calificaciones'
+Average Rating: '4.6'
+Category Rank: '#58 en Productividad'
+
+Country: 'Hong Kong'
+Total Ratings: '120 個評分'
+Average Rating: '4.6'
+Category Rank: '-'
+
+Country: 'Hungary'
+Total Ratings: '18 Ratings'
+Average Rating: '4.2'
+Category Rank: '#97 in Productivity'
+
+Country: 'Iceland'
+Total Ratings: '7 Ratings'
+Average Rating: '4.6'
+Category Rank: '#186 in Productivity'
+
+Country: 'India'
+Total Ratings: '1.4K Ratings'
+Average Rating: '4.6'
+Category Rank: '-'
+
+Country: 'Indonesia'
+Total Ratings: '206 Ratings'
+Average Rating: '4.8'
+Category Rank: '-'
+
+Country: 'Iraq'
+Total Ratings: '25 Ratings'
+Average Rating: '4.9'
+Category Rank: '-'
+
+Country: 'Ireland'
+Total Ratings: '97 Ratings'
+Average Rating: '4.7'
+Category Rank: '#40 in Productivity'
+
+Country: 'Israel'
+Total Ratings: '73 Ratings'
+Average Rating: '4.4'
+Category Rank: '#200 in Productivity'
+
+Country: 'Italy'
+Total Ratings: '503 valutazioni'
+Average Rating: '4,6'
+Category Rank: '#148 in Produttività'
+
+Country: 'Jamaica'
+Total Ratings: '78 Ratings'
+Average Rating: '4.6'
+Category Rank: '#40 in Productivity'
+
+Country: 'Japan'
+Total Ratings: '106件の評価'
+Average Rating: '4.6'
+Category Rank: '-'
+
+Country: 'Jordan'
+Total Ratings: '51 Ratings'
+Average Rating: '4.9'
+Category Rank: '-'
+
+Country: 'Kazakhstan'
+Total Ratings: '20 Ratings'
+Average Rating: '4.8'
+Category Rank: '-'
+
+Country: 'Kenya'
+Total Ratings: '137 Ratings'
+Average Rating: '4.7'
+Category Rank: '#16 in Productivity'
+
+Country: 'Korea (the Republic of)'
+Total Ratings: '53개의 평가'
+Average Rating: '4.7'
+Category Rank: '-'
+
+Country: 'Kosovo'
+Total Ratings: '4 Ratings'
+Average Rating: '4.5'
+Category Rank: '-'
+
+Country: 'Kuwait'
+Total Ratings: '43 Ratings'
+Average Rating: '4.7'
+Category Rank: '#138 in Productivity'
+
+Country: 'Kyrgyzstan'
+Total Ratings: '4 Ratings'
+Average Rating: '4.0'
+Category Rank: '-'
+
+Country: 'Lao People's Democratic Republic (the)'
+Total Ratings: '6 Ratings'
+Average Rating: '4.5'
+Category Rank: '-'
+
+Country: 'Latvia'
+Total Ratings: '8 Ratings'
+Average Rating: '4.0'
+Category Rank: '#67 in Productivity'
+
+Country: 'Lebanon'
+Total Ratings: '84 Ratings'
+Average Rating: '4.8'
+Category Rank: '#72 in Productivity'
+
+Country: 'Liberia'
+Total Ratings: '37 Ratings'
+Average Rating: '4.4'
+Category Rank: '#8 in Productivity'
+
+Country: 'Libya'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Liechtenstein'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Lithuania'
+Total Ratings: '19 Ratings'
+Average Rating: '5.0'
+Category Rank: '#65 in Productivity'
+
+Country: 'Luxembourg'
+Total Ratings: '26 Ratings'
+Average Rating: '4.7'
+Category Rank: '-'
+
+Country: 'Macao'
+Total Ratings: '9 個評分'
+Average Rating: '4.9'
+Category Rank: '-'
+
+Country: 'Madagascar'
+Total Ratings: '18 Ratings'
+Average Rating: '4.3'
+Category Rank: '-'
+
+Country: 'Malawi'
+Total Ratings: '14 Ratings'
+Average Rating: '4.8'
+Category Rank: '#5 in Productivity'
+
+Country: 'Malaysia'
+Total Ratings: '370 Ratings'
+Average Rating: '4.7'
+Category Rank: '-'
+
+Country: 'Maldives'
+Total Ratings: '11 Ratings'
+Average Rating: '5.0'
+Category Rank: '#34 in Productivity'
+
+Country: 'Mali'
+Total Ratings: '65 Ratings'
+Average Rating: '4.7'
+Category Rank: '#78 in Productivity'
+
+Country: 'Malta'
+Total Ratings: '26 Ratings'
+Average Rating: '4.9'
+Category Rank: '#8 in Productivity'
+
+Country: 'Mauritania'
+Total Ratings: '4 Ratings'
+Average Rating: '3.8'
+Category Rank: '#145 in Productivity'
+
+Country: 'Mauritius'
+Total Ratings: '17 Ratings'
+Average Rating: '4.6'
+Category Rank: '#72 in Productivity'
+
+Country: 'Mexico'
+Total Ratings: '527 calificaciones'
+Average Rating: '4.7'
+Category Rank: '#147 en Productividad'
+
+Country: 'Micronesia (Federated States of)'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#118 in Productivity'
+
+Country: 'Moldova (the Republic of)'
+Total Ratings: '5 Ratings'
+Average Rating: '4.2'
+Category Rank: '-'
+
+Country: 'Monaco'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Mongolia'
+Total Ratings: '8 Ratings'
+Average Rating: '4.5'
+Category Rank: '-'
+
+Country: 'Montenegro'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Montserrat'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#174 in Productivity'
+
+Country: 'Morocco'
+Total Ratings: '114 Ratings'
+Average Rating: '4.7'
+Category Rank: '#190 in Productivity'
+
+Country: 'Mozambique'
+Total Ratings: '44 Ratings'
+Average Rating: '4.5'
+Category Rank: '#54 in Productivity'
+
+Country: 'Myanmar'
+Total Ratings: '5 Ratings'
+Average Rating: '4.8'
+Category Rank: '#129 in Productivity'
+
+Country: 'Namibia'
+Total Ratings: '28 Ratings'
+Average Rating: '4.8'
+Category Rank: '#19 in Productivity'
+
+Country: 'Nauru'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#35 in Productivity'
+
+Country: 'Nepal'
+Total Ratings: '67 Ratings'
+Average Rating: '4.7'
+Category Rank: '#40 in Productivity'
+
+Country: 'Netherlands (the)'
+Total Ratings: '218 beoordelingen'
+Average Rating: '4,3'
+Category Rank: '#20 in Productiviteit'
+
+Country: 'New Zealand'
+Total Ratings: '85 Ratings'
+Average Rating: '4.6'
+Category Rank: '#102 in Productivity'
+
+Country: 'Nicaragua'
+Total Ratings: '14 calificaciones'
+Average Rating: '4.7'
+Category Rank: '#66 en Productividad'
+
+Country: 'Niger (the)'
+Total Ratings: '16 Ratings'
+Average Rating: '4.7'
+Category Rank: '#23 in Productivity'
+
+Country: 'Nigeria'
+Total Ratings: '367 Ratings'
+Average Rating: '4.6'
+Category Rank: '#3 in Productivity'
+
+Country: 'Norway'
+Total Ratings: '105 Ratings'
+Average Rating: '4.4'
+Category Rank: '#73 in Productivity'
+
+Country: 'Oman'
+Total Ratings: '54 Ratings'
+Average Rating: '4.8'
+Category Rank: '-'
+
+Country: 'Pakistan'
+Total Ratings: '319 Ratings'
+Average Rating: '4.6'
+Category Rank: '#103 in Productivity'
+
+Country: 'Palau'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#163 in Productivity'
+
+Country: 'Palestine, State of'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Panama'
+Total Ratings: '51 calificaciones'
+Average Rating: '4.7'
+Category Rank: '#111 en Productividad'
+
+Country: 'Papua New Guinea'
+Total Ratings: '13 Ratings'
+Average Rating: '4.9'
+Category Rank: '#145 in Productivity'
+
+Country: 'Paraguay'
+Total Ratings: '20 calificaciones'
+Average Rating: '4.7'
+Category Rank: '#69 en Productividad'
+
+Country: 'Peru'
+Total Ratings: '121 calificaciones'
+Average Rating: '4.6'
+Category Rank: '#63 en Productividad'
+
+Country: 'Philippines (the)'
+Total Ratings: '609 Ratings'
+Average Rating: '4.8'
+Category Rank: '#71 in Productivity'
+
+Country: 'Poland'
+Total Ratings: '52 Ratings'
+Average Rating: '4.2'
+Category Rank: '#127 in Productivity'
+
+Country: 'Portugal'
+Total Ratings: '140 classificações'
+Average Rating: '4,7'
+Category Rank: '#60 em Produtividade'
+
+Country: 'Qatar'
+Total Ratings: '92 Ratings'
+Average Rating: '4.7'
+Category Rank: '#72 in Productivity'
+
+Country: 'Republic of North Macedonia'
+Total Ratings: '8 Ratings'
+Average Rating: '4.6'
+Category Rank: '-'
+
+Country: 'Romania'
+Total Ratings: '70 Ratings'
+Average Rating: '4.6'
+Category Rank: '#58 in Productivity'
+
+Country: 'Russian Federation (the)'
+Total Ratings: 'Оценок: 26'
+Average Rating: '4,7'
+Category Rank: '-'
+
+Country: 'Rwanda'
+Total Ratings: '22 Ratings'
+Average Rating: '4.9'
+Category Rank: '#4 in Productivity'
+
+Country: 'Saint Kitts and Nevis'
+Total Ratings: '3 Ratings'
+Average Rating: '5.0'
+Category Rank: '#23 in Productivity'
+
+Country: 'Saint Lucia'
+Total Ratings: '4 Ratings'
+Average Rating: '4.8'
+Category Rank: '#189 in Productivity'
+
+Country: 'Saint Vincent and the Grenadines'
+Total Ratings: '2 Ratings'
+Average Rating: '5.0'
+Category Rank: '#66 in Productivity'
+
+Country: 'Samoa'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '-'
+
+Country: 'Sao Tome and Principe'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#125 in Productivity'
+
+Country: 'Saudi Arabia'
+Total Ratings: '243 Ratings'
+Average Rating: '4.7'
+Category Rank: '-'
+
+Country: 'Senegal'
+Total Ratings: '147 Ratings'
+Average Rating: '4.6'
+Category Rank: '#55 in Productivity'
+
+Country: 'Serbia'
+Total Ratings: '17 Ratings'
+Average Rating: '4.3'
+Category Rank: '-'
+
+Country: 'Seychelles'
+Total Ratings: '4 Ratings'
+Average Rating: '5.0'
+Category Rank: '#83 in Productivity'
+
+Country: 'Sierra Leone'
+Total Ratings: '50 Ratings'
+Average Rating: '4.6'
+Category Rank: '#6 in Productivity'
+
+Country: 'Singapore'
+Total Ratings: '140 Ratings'
+Average Rating: '4.8'
+Category Rank: '#178 in Productivity'
+
+Country: 'Slovakia'
+Total Ratings: '12 Ratings'
+Average Rating: '4.3'
+Category Rank: '#70 in Productivity'
+
+Country: 'Slovenia'
+Total Ratings: '9 Ratings'
+Average Rating: '4.3'
+Category Rank: '#65 in Productivity'
+
+Country: 'Solomon Islands'
+Total Ratings: '1 Rating'
+Average Rating: '5.0'
+Category Rank: '#9 in Productivity'
+
+Country: 'South Africa'
+Total Ratings: '423 Ratings'
+Average Rating: '4.7'
+Category Rank: '#33 in Productivity'
+
+Country: 'Spain'
+Total Ratings: '307 valoraciones'
+Average Rating: '4,5'
+Category Rank: 'Núm. 138 en Productividad'
+
+Country: 'Sri Lanka'
+Total Ratings: '110 Ratings'
+Average Rating: '4.6'
+Category Rank: '#118 in Productivity'
+
+Country: 'Suriname'
+Total Ratings: '2 Ratings'
+Average Rating: '4.0'
+Category Rank: '#139 in Productivity'
+
+Country: 'Sweden'
+Total Ratings: '125 betyg'
+Average Rating: '4,4'
+Category Rank: '#34 i Produktivitet'
+
+Country: 'Switzerland'
+Total Ratings: '438 Bewertungen'
+Average Rating: '4.5'
+Category Rank: 'Nr. 108 in Produktivität'
+
+Country: 'Taiwan (Province of China)'
+Total Ratings: '30 則評分'
+Average Rating: '4.6'
+Category Rank: '-'
+
+Country: 'Tajikistan'
+Total Ratings: '1 Rating'
+Average Rating: '5.0'
+Category Rank: '-'
+
+Country: 'Tanzania, United Republic of'
+Total Ratings: '107 Ratings'
+Average Rating: '4.8'
+Category Rank: '#2 in Productivity'
+
+Country: 'Thailand'
+Total Ratings: '156 Ratings'
+Average Rating: '4.6'
+Category Rank: '-'
+
+Country: 'Tonga'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#37 in Productivity'
+
+Country: 'Trinidad and Tobago'
+Total Ratings: '20 Ratings'
+Average Rating: '4.5'
+Category Rank: '#184 in Productivity'
+
+Country: 'Tunisia'
+Total Ratings: '29 Ratings'
+Average Rating: '4.8'
+Category Rank: '#128 in Productivity'
+
+Country: 'Turkey'
+Total Ratings: '230 Ratings'
+Average Rating: '4.5'
+Category Rank: '-'
+
+Country: 'Turkmenistan'
+Total Ratings: '2 Ratings'
+Average Rating: '5.0'
+Category Rank: '#27 in Productivity'
+
+Country: 'Turks and Caicos Islands (the)'
+Total Ratings: '7 Ratings'
+Average Rating: '5.0'
+Category Rank: '#49 in Productivity'
+
+Country: 'Uganda'
+Total Ratings: '98 Ratings'
+Average Rating: '4.7'
+Category Rank: '#6 in Productivity'
+
+Country: 'Ukraine'
+Total Ratings: '54 Ratings'
+Average Rating: '4.2'
+Category Rank: '-'
+
+Country: 'United Arab Emirates (the)'
+Total Ratings: '529 Ratings'
+Average Rating: '4.7'
+Category Rank: '#115 in Productivity'
+
+Country: 'United Kingdom of Great Britain and Northern Ireland (the)'
+Total Ratings: '1.2K Ratings'
+Average Rating: '4.5'
+Category Rank: '#45 in Productivity'
+
+Country: 'United States of America (the)'
+Total Ratings: '10.6K Ratings'
+Average Rating: '4.7'
+Category Rank: '#51 in Productivity'
+
+Country: 'Uruguay'
+Total Ratings: '27 Ratings'
+Average Rating: '4.4'
+Category Rank: '#81 in Productivity'
+
+Country: 'Uzbekistan'
+Total Ratings: '16 Ratings'
+Average Rating: '4.8'
+Category Rank: '#174 in Productivity'
+
+Country: 'Vanuatu'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#19 in Productivity'
+
+Country: 'Venezuela (Bolivarian Republic of)'
+Total Ratings: '46 calificaciones'
+Average Rating: '4.7'
+Category Rank: '#95 en Productividad'
+
+Country: 'Viet Nam'
+Total Ratings: '107 Ratings'
+Average Rating: '4.6'
+Category Rank: '-'
+
+Country: 'Virgin Islands (British)'
+Total Ratings: 'Not found'
+Average Rating: 'Not found'
+Category Rank: '#131 in Productivity'
+
+Country: 'Yemen'
+Total Ratings: '3 Ratings'
+Average Rating: '3.7'
+Category Rank: '-'
+
+Country: 'Zambia'
+Total Ratings: '64 Ratings'
+Average Rating: '4.6'
+Category Rank: '#4 in Productivity'
+
+Country: 'Zimbabwe'
+Total Ratings: '58 Ratings'
+Average Rating: '4.7'
+Category Rank: '#10 in Productivity'
+

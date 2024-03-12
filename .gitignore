@@ -5,6 +5,10 @@
 # Output Files
 *.xlsx
 *.txt
+!Output Examples/typeai-ai-keyboard-writer_info_12-03-2024_15-36-43.txt
+!Output Examples/typeai-ai-keyboard-writer_info_12-03-2024_15-36-43.xlsx
+!Output Examples/typeai-ai-keyboard-writer_reviews_12-03-2024_15-42-21.txt
+!Output Examples/typeai-ai-keyboard-writer_reviews_12-03-2024_15-42-21.xlsx
 
 
 # ----------------------------------------------------
